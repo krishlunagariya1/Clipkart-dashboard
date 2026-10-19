@@ -1,8 +1,6 @@
 # 🛒 ClipKart Sales Performance Dashboard — FY 2027
 
-<p align="center">
-  <img src="assets/dashboard.png" alt="ClipKart Sales Dashboard" width="100%">
-</p>
+
 
 <p align="center">
   <b>An interactive Power BI dashboard for analyzing sales performance, revenue trends, product performance, and city-wise sales.</b>
