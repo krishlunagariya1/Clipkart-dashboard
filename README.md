@@ -49,9 +49,13 @@ An interactive **Microsoft Power BI dashboard** for analyzing sales performance,
 
 ---
 
+
+---
+
 ## 🖥️ Dashboard Preview
 
 <p align="center">
-  <img src="./dashboard.png" alt="ClipKart Sales Performance Dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/krishlunagariya1/Clipkart-dashboard/main/Dashboard%20.png" alt="ClipKart Sales Performance Dashboard" width="100%">
 </p>
+
 
